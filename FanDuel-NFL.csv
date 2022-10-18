@@ -1,0 +1,179 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Min Exposure,Max Exposure,Projected Ownership,Roster Position
+81398-79970,WR,Cooper,Cooper Kupp,Kupp,18.8,4,9500,DAL@LAR,LAR,DAL,,,,,2230%,WR/FLEX
+81398-53562,RB,Nick,Nick Chubb,Chubb,14.7,4,9400,LAC@CLE,CLE,LAC,,,,,160%,RB/FLEX
+81398-80001,RB,Austin,Austin Ekeler,Ekeler,16.2,4,9000,LAC@CLE,LAC,CLE,,,,,710%,RB/FLEX
+81398-62239,QB,Josh,Josh Allen,Allen,25.2,4,9000,PIT@BUF,BUF,PIT,,,,,2700%,QB
+81398-39280,RB,Derrick,Derrick Henry,Henry,17.2,4,8900,TEN@WAS,TEN,WAS,,,,,1460%,RB/FLEX
+81398-85671,WR,Justin,Justin Jefferson,Jefferson,16.5,4,8800,CHI@MIN,MIN,CHI,,,,,1510%,WR/FLEX
+81398-55050,RB,Christian,Christian McCaffrey,McCaffrey,16.7,4,8700,SF@CAR,CAR,SF,,,,,1180%,RB/FLEX
+81398-25079,WR,Stefon,Stefon Diggs,Diggs,15.2,4,8600,PIT@BUF,BUF,PIT,,,,,1730%,WR/FLEX
+81398-69531,QB,Jalen,Jalen Hurts,Hurts,24.4,4,8600,PHI@ARI,PHI,ARI,,,,,2400%,QB
+81398-53681,WR,Tyreek,Tyreek Hill,Hill,16.5,4,8400,MIA@NYJ,MIA,NYJ,Q,Quadriceps,,,1380%,WR/FLEX
+81398-45631,RB,Jamaal,Jamaal Williams,Williams,13.2,4,8300,DET@NE,DET,NE,,,,,260%,RB/FLEX
+81398-86997,WR,Amon-Ra,Amon-Ra St. Brown,St. Brown,11.9,3,8200,DET@NE,DET,NE,Q,Ankle,,,50%,WR/FLEX
+81398-69189,QB,Justin,Justin Herbert,Herbert,19.5,4,8200,LAC@CLE,LAC,CLE,,,,,290%,QB
+81398-63484,QB,Kyler,Kyler Murray,Murray,19.8,4,8100,PHI@ARI,ARI,PHI,,,,,460%,QB
+81398-72846,WR,A.J.,A.J. Brown,Brown,14.6,4,8000,PHI@ARI,PHI,ARI,,,,,1030%,WR/FLEX
+81398-130288,RB,James,James Robinson,Robinson,12.1,4,8000,HOU@JAC,JAC,HOU,,,,,250%,RB/FLEX
+81398-38435,QB,Jared,Jared Goff,Goff,16,4,8000,DET@NE,DET,NE,,,,,50%,QB
+81398-6498,QB,Tom,Tom Brady,Brady,21.7,4,7800,ATL@TB,TB,ATL,,,,,1100%,QB
+81398-86687,WR,Marquise,Marquise Brown,Brown,13.8,4,7800,PHI@ARI,ARI,PHI,,,,,250%,WR/FLEX
+81398-52922,RB,Leonard,Leonard Fournette,Fournette,16.8,4,7800,ATL@TB,TB,ATL,,,,,2330%,RB/FLEX
+81398-90573,WR,Jaylen,Jaylen Waddle,Waddle,14.2,4,7700,MIA@NYJ,MIA,NYJ,Q,Groin,,,590%,WR/FLEX
+81398-71845,RB,Miles,Miles Sanders,Sanders,12.8,4,7600,PHI@ARI,PHI,ARI,,,,,330%,RB/FLEX
+81398-60858,WR,Christian,Christian Kirk,Kirk,14.1,4,7600,HOU@JAC,JAC,HOU,,,,,1030%,WR/FLEX
+81398-89951,QB,Trevor,Trevor Lawrence,Lawrence,18.1,4,7600,HOU@JAC,JAC,HOU,,,,,270%,QB
+81398-86055,RB,Dameon,Dameon Pierce,Pierce,14.3,4,7500,HOU@JAC,HOU,JAC,,,,,820%,RB/FLEX
+81398-32384,WR,Mike,Mike Evans,Evans,15.1,3,7500,ATL@TB,TB,ATL,,,,,1570%,WR/FLEX
+81398-6654,QB,Matthew,Matthew Stafford,Stafford,16.8,4,7400,DAL@LAR,LAR,DAL,,,,,200%,QB
+81398-39829,WR,Mike,Mike Williams,Williams,12.8,4,7400,LAC@CLE,LAC,CLE,,,,,720%,WR/FLEX
+81398-56018,WR,Deebo,Deebo Samuel,Samuel,16.5,4,7300,SF@CAR,SF,CAR,,,,,3030%,WR/FLEX
+81398-54140,RB,Dalvin,Dalvin Cook,Cook,16.9,4,7300,CHI@MIN,MIN,CHI,,,,,2990%,RB/FLEX
+81398-72776,RB,Alexander,Alexander Mattison,Mattison,5.4,4,7300,CHI@MIN,MIN,CHI,,,,,50%,RB/FLEX
+81398-90406,QB,Zach,Zach Wilson,Wilson,16.3,1,7200,MIA@NYJ,NYJ,MIA,,,,,60%,QB
+81398-86631,WR,CeeDee,CeeDee Lamb,Lamb,13.5,4,7200,DAL@LAR,DAL,LAR,Q,Groin,,,1310%,WR/FLEX
+81398-64576,RB,Damien,Damien Harris,Harris,14,4,7200,DET@NE,NE,DET,,,,,920%,RB/FLEX
+81398-72412,RB,Khalil,Khalil Herbert,Herbert,7.6,4,7100,CHI@MIN,CHI,MIN,,,,,50%,RB/FLEX
+81398-73048,WR,DK,DK Metcalf,Metcalf,12.3,4,7100,SEA@NO,SEA,NO,,,,,960%,WR/FLEX
+81398-22038,QB,Kirk,Kirk Cousins,Cousins,18.3,4,7100,CHI@MIN,MIN,CHI,,,,,480%,QB
+81398-73273,RB,David,David Montgomery,Montgomery,11.5,3,7100,CHI@MIN,CHI,MIN,Q,Ankle,,,150%,RB/FLEX
+81398-71706,TE,T.J.,T.J. Hockenson,Hockenson,9.3,4,7000,DET@NE,DET,NE,,,,,70%,TE/FLEX
+81398-31001,WR,Amari,Amari Cooper,Cooper,10.6,4,7000,LAC@CLE,CLE,LAC,,,,,50%,WR/FLEX
+81398-55635,WR,Chris,Chris Godwin,Godwin,13.3,2,7000,ATL@TB,TB,ATL,,,,,1500%,WR/FLEX
+81398-42104,RB,Alvin,Alvin Kamara,Kamara,15.4,2,7000,SEA@NO,NO,SEA,Q,Ribs,,,2910%,RB/FLEX
+81398-54604,QB,Jimmy,Jimmy Garoppolo,Garoppolo,15.3,3,7000,SF@CAR,SF,CAR,,,,,50%,QB
+81398-57840,RB,Rashaad,Rashaad Penny,Penny,11.2,4,6900,SEA@NO,SEA,NO,,,,,470%,RB/FLEX
+81398-21948,QB,Ryan,Ryan Tannehill,Tannehill,15.7,4,6900,TEN@WAS,TEN,WAS,,,,,80%,QB
+81398-87770,WR,Chris,Chris Olave,Olave,12.7,4,6900,SEA@NO,NO,SEA,,,,,1390%,WR/FLEX
+81398-26483,QB,Geno,Geno Smith,Smith,16.3,4,6900,SEA@NO,SEA,NO,,,,,190%,QB
+81398-27050,WR,Tyler,Tyler Lockett,Lockett,12.7,4,6800,SEA@NO,SEA,NO,,,,,1300%,WR/FLEX
+81398-29358,QB,Marcus,Marcus Mariota,Mariota,15.5,4,6800,ATL@TB,ATL,TB,,,,,90%,QB
+81398-70324,QB,Carson,Carson Wentz,Wentz,15.8,4,6800,TEN@WAS,WAS,TEN,,,,,130%,QB
+81398-29501,WR,Brandin,Brandin Cooks,Cooks,12.4,4,6800,HOU@JAC,HOU,JAC,,,,,1000%,WR/FLEX
+81398-66008,WR,Diontae,Diontae Johnson,Johnson,10.8,4,6700,PIT@BUF,PIT,BUF,,,,,90%,WR/FLEX
+81398-30231,QB,Jacoby,Jacoby Brissett,Brissett,15.5,4,6700,LAC@CLE,CLE,LAC,,,,,60%,QB
+81398-40687,RB,James,James Conner,Conner,12.1,4,6700,PHI@ARI,ARI,PHI,,,,,550%,RB/FLEX
+81398-90575,RB,Najee,Najee Harris,Harris,11.3,4,6600,PIT@BUF,PIT,BUF,,,,,410%,RB/FLEX
+81398-90576,WR,DeVonta,DeVonta Smith,Smith,10.9,4,6600,PHI@ARI,PHI,ARI,,,,,680%,WR/FLEX
+81398-103064,RB,Breece,Breece Hall,Hall,12.7,4,6600,MIA@NYJ,NYJ,MIA,,,,,830%,RB/FLEX
+81398-91591,QB,Justin,Justin Fields,Fields,15.1,4,6600,CHI@MIN,CHI,MIN,,,,,120%,QB
+81398-55552,RB,Jeff,Jeff Wilson Jr.,Wilson Jr.,14.7,4,6500,SF@CAR,SF,CAR,,,,,2660%,RB/FLEX
+81398-39793,TE,George,George Kittle,Kittle,8.6,2,6500,SF@CAR,SF,CAR,,,,,150%,TE/FLEX
+81398-56250,WR,Terry,Terry McLaurin,McLaurin,10.6,4,6500,TEN@WAS,WAS,TEN,,,,,470%,WR/FLEX
+81398-44715,QB,Cooper,Cooper Rush,Rush,14,4,6500,DAL@LAR,DAL,LAR,,,,,50%,QB
+81398-92020,QB,Kenny,Kenny Pickett,Pickett,14.1,1,6500,PIT@BUF,PIT,BUF,,,,,50%,QB
+81398-14225,QB,Andy,Andy Dalton,Dalton,17.1,1,6500,SEA@NO,NO,SEA,,,,,420%,QB
+81398-33259,QB,Teddy,Teddy Bridgewater,Bridgewater,17.7,2,6400,MIA@NYJ,MIA,NYJ,,,0.5,,970%,QB
+81398-41535,QB,Baker,Baker Mayfield,Mayfield,12.3,4,6400,SF@CAR,CAR,SF,,,,,50%,QB
+81398-89628,QB,Davis,Davis Mills,Mills,14.3,4,6400,HOU@JAC,HOU,JAC,,,,,50%,QB
+81398-53097,WR,Josh,Josh Reynolds,Reynolds,9.1,4,6400,DET@NE,DET,NE,Q,Ankle,,,50%,WR/FLEX
+81398-139985,QB,Bailey,Bailey Zappe,Zappe,14.9,1,6300,DET@NE,NE,DET,,,,,250%,QB
+81398-39716,WR,Adam,Adam Thielen,Thielen,10.7,4,6300,CHI@MIN,MIN,CHI,,,,,790%,WR/FLEX
+81398-90933,RB,Antonio,Antonio Gibson,Gibson,9.8,4,6300,TEN@WAS,WAS,TEN,,,,,50%,RB/FLEX
+81398-57299,TE,Gerald,Gerald Everett,Everett,7.9,4,6300,LAC@CLE,LAC,CLE,,,,,70%,TE/FLEX
+81398-112745,WR,Drake,Drake London,London,11.7,4,6200,ATL@TB,ATL,TB,,,,,2080%,WR/FLEX
+81398-52916,WR,Russell,Russell Gage,Gage,8,4,6200,ATL@TB,TB,ATL,Q,Knee,,,500%,WR/FLEX
+81398-38791,RB,Ezekiel,Ezekiel Elliott,Elliott,10.2,4,6200,DAL@LAR,DAL,LAR,,,,,240%,RB/FLEX
+81398-70157,RB,Darrell,Darrell Henderson Jr.,Henderson Jr.,9,4,6100,DAL@LAR,LAR,DAL,,,,,50%,RB/FLEX
+81398-83074,TE,Dallas,Dallas Goedert,Goedert,10,4,6100,PHI@ARI,PHI,ARI,,,,,1210%,TE/FLEX
+81398-89230,RB,Cam,Cam Akers,Akers,8.9,4,6100,DAL@LAR,LAR,DAL,,,,,50%,RB/FLEX
+81398-63634,WR,Jakobi,Jakobi Meyers,Meyers,8.5,2,6000,DET@NE,NE,DET,Q,Knee,,,50%,WR/FLEX
+81398-69956,WR,Michael,Michael Gallup,Gallup,7.3,1,6000,DAL@LAR,DAL,LAR,,,,,50%,WR/FLEX
+81398-94534,WR,Gabe,Gabe Davis,Davis,10.5,3,6000,PIT@BUF,BUF,PIT,,,,,690%,WR/FLEX
+81398-111540,RB,Rhamondre,Rhamondre Stevenson,Stevenson,12.7,4,6000,DET@NE,NE,DET,,,,,2300%,RB/FLEX
+81398-70603,RB,Devin,Devin Singletary,Singletary,13.4,4,6000,PIT@BUF,BUF,PIT,,,,,2780%,RB/FLEX
+81398-103564,WR,Garrett,Garrett Wilson,Wilson,9,4,6000,MIA@NYJ,NYJ,MIA,,,,,330%,WR/FLEX
+81398-14211,RB,Mark,Mark Ingram II,Ingram II,5.3,4,6000,SEA@NO,NO,SEA,,,,,50%,RB/FLEX
+81398-45229,RB,Kareem,Kareem Hunt,Hunt,10.1,4,5900,LAC@CLE,CLE,LAC,,,,,630%,RB/FLEX
+81398-45439,WR,Corey,Corey Davis,Davis,8.2,4,5900,MIA@NYJ,NYJ,MIA,,,,,50%,WR/FLEX
+81398-29685,WR,Robert,Robert Woods,Woods,9.2,4,5900,TEN@WAS,TEN,WAS,,,,,560%,WR/FLEX
+81398-29780,TE,Zach,Zach Ertz,Ertz,9.1,4,5900,PHI@ARI,ARI,PHI,,,,,1500%,TE/FLEX
+81398-63043,WR,DJ,DJ Moore,Moore,10.1,4,5900,SF@CAR,CAR,SF,,,,,920%,WR/FLEX
+81398-85798,WR,Brandon,Brandon Aiyuk,Aiyuk,10.5,4,5900,SF@CAR,SF,CAR,,,,,420%,WR/FLEX
+81398-28744,RB,Raheem,Raheem Mostert,Mostert,12,4,5800,MIA@NYJ,MIA,NYJ,,,,,1330%,RB/FLEX
+81398-69777,WR,Darnell,Darnell Mooney,Mooney,8.5,4,5800,CHI@MIN,CHI,MIN,,,,,160%,WR/FLEX
+81398-86244,TE,Pat,Pat Freiermuth,Freiermuth,8.7,4,5800,PIT@BUF,PIT,BUF,,,,,440%,TE/FLEX
+81398-137902,RB,Rachaad,Rachaad White,White,6.4,4,5800,ATL@TB,TB,ATL,,,,,50%,RB/FLEX
+81398-52613,WR,Curtis,Curtis Samuel,Samuel,11,4,5800,TEN@WAS,WAS,TEN,,,,,1790%,WR/FLEX
+81398-55335,TE,David,David Njoku,Njoku,7.9,4,5700,LAC@CLE,CLE,LAC,,,,,290%,TE/FLEX
+81398-63759,RB,Tony,Tony Pollard,Pollard,8.9,4,5700,DAL@LAR,DAL,LAR,Q,Illness,,,50%,RB/FLEX
+81398-90428,RB,Tyler,Tyler Allgeier,Allgeier,9.2,3,5700,ATL@TB,ATL,TB,,,,,290%,RB/FLEX
+81398-41305,WR,Zay,Zay Jones,Jones,9.8,3,5700,HOU@JAC,JAC,HOU,Q,Ankle,,,190%,WR/FLEX
+81398-33260,WR,DeVante,DeVante Parker,Parker,6.5,4,5700,DET@NE,NE,DET,,,,,50%,WR/FLEX
+81398-83081,RB,Chase,Chase Edmonds,Edmonds,7.5,4,5700,MIA@NYJ,MIA,NYJ,,,,,50%,RB/FLEX
+81398-28643,WR,Allen,Allen Robinson II,Robinson II,7,4,5700,DAL@LAR,LAR,DAL,,,,,50%,WR/FLEX
+81398-89157,RB,Caleb,Caleb Huntley,Huntley,5.9,2,5600,ATL@TB,ATL,TB,,,,,50%,RB/FLEX
+81398-73111,WR,Chase,Chase Claypool,Claypool,6.8,4,5600,PIT@BUF,PIT,BUF,,,,,50%,WR/FLEX
+81398-89956,RB,Travis,Travis Etienne Jr.,Etienne Jr.,9.3,4,5600,HOU@JAC,JAC,HOU,,,,,280%,RB/FLEX
+81398-61593,WR,Jauan,Jauan Jennings,Jennings,5,4,5500,SF@CAR,SF,CAR,,,,,50%,WR/FLEX
+81398-47870,TE,Tyler,Tyler Higbee,Higbee,10.4,4,5500,DAL@LAR,LAR,DAL,,,,,3070%,TE/FLEX
+81398-29683,WR,Nelson,Nelson Agholor,Agholor,7,4,5500,DET@NE,NE,DET,,,,,50%,WR/FLEX
+81398-93539,RB,Michael,Michael Carter,Carter,7.8,4,5500,MIA@NYJ,NYJ,MIA,,,,,50%,RB/FLEX
+81398-87418,WR,Joshua,Joshua Palmer,Palmer,9,4,5500,LAC@CLE,LAC,CLE,Q,Ankle,,,60%,WR/FLEX
+81398-26251,WR,Robbie,Robbie Anderson,Anderson,7.4,4,5500,SF@CAR,CAR,SF,,,,,50%,WR/FLEX
+81398-110246,WR,George,George Pickens,Pickens,7.1,4,5500,PIT@BUF,PIT,BUF,,,,,400%,WR/FLEX
+81398-104424,RB,Craig,Craig Reynolds,Reynolds,5.8,3,5500,DET@NE,DET,NE,,,,,50%,RB/FLEX
+81398-64389,WR,Nick,Nick Westbrook-Ikhine,Westbrook-Ikhine,5.6,3,5400,TEN@WAS,TEN,WAS,,,,,50%,WR/FLEX
+81398-56248,WR,Noah,Noah Brown,Brown,6.8,4,5400,DAL@LAR,DAL,LAR,,,,,50%,WR/FLEX
+81398-91419,WR,Nico,Nico Collins,Collins,7.6,4,5400,HOU@JAC,HOU,JAC,,,,,80%,WR/FLEX
+81398-91426,WR,Donovan,Donovan Peoples-Jones,Peoples-Jones,7.1,4,5400,LAC@CLE,CLE,LAC,,,,,50%,WR/FLEX
+81398-53640,RB,Sony,Sony Michel,Michel,5.1,4,5300,LAC@CLE,LAC,CLE,,,,,50%,RB/FLEX
+81398-88575,WR,Elijah,Elijah Moore,Moore,8.1,4,5300,MIA@NYJ,NYJ,MIA,,,,,360%,WR/FLEX
+81398-103342,RB,Kenneth,Kenneth Walker III,Walker III,5,3,5300,SEA@NO,SEA,NO,Q,Shoulder,,,50%,RB/FLEX
+81398-64496,WR,Olamide,Olamide Zaccheaus,Zaccheaus,5.6,4,5300,ATL@TB,ATL,TB,,,,,50%,WR/FLEX
+81398-60451,TE,Tyler,Tyler Conklin,Conklin,6.6,4,5300,MIA@NYJ,NYJ,MIA,,,,,90%,TE/FLEX
+81398-71105,WR,Ben,Ben Skowronek,Skowronek,4.9,4,5300,DAL@LAR,LAR,DAL,,,,,50%,WR/FLEX
+81398-63855,WR,K.J.,K.J. Osborn,Osborn,6,4,5200,CHI@MIN,MIN,CHI,,,,,50%,WR/FLEX
+81398-80289,WR,Kendrick,Kendrick Bourne,Bourne,4.8,4,5200,DET@NE,NE,DET,,,,,50%,WR/FLEX
+81398-90912,RB,Kenneth,Kenneth Gainwell,Gainwell,5.4,4,5200,PHI@ARI,PHI,ARI,,,,,50%,RB/FLEX
+81398-93408,WR,Rondale,Rondale Moore,Moore,8.2,1,5200,PHI@ARI,ARI,PHI,Q,Knee,,,240%,WR/FLEX
+81398-64841,WR,Equanimeous,Equanimeous St. Brown,St. Brown,5.7,4,5200,CHI@MIN,CHI,MIN,,,,,50%,WR/FLEX
+81398-22103,WR,Marvin,Marvin Jones Jr.,Jones Jr.,7.4,4,5200,HOU@JAC,JAC,HOU,,,,,190%,WR/FLEX
+81398-91902,WR,Kyle,Kyle Philips,Philips,6.4,3,5200,TEN@WAS,TEN,WAS,,,,,50%,WR/FLEX
+81398-43334,RB,J.D.,J.D. McKissic,McKissic,7.3,4,5100,TEN@WAS,WAS,TEN,,,,,130%,RB/FLEX
+81398-70027,RB,Zack,Zack Moss,Moss,4.3,4,5100,PIT@BUF,BUF,PIT,,,,,50%,RB/FLEX
+81398-27338,RB,Rex,Rex Burkhead,Burkhead,6.3,4,5100,HOU@JAC,HOU,JAC,,,,,50%,RB/FLEX
+81398-70422,WR,Kalif,Kalif Raymond,Raymond,5.3,4,5100,DET@NE,DET,NE,,,,,50%,WR/FLEX
+81398-62628,WR,DeAndre,DeAndre Carter,Carter,5.6,4,5100,LAC@CLE,LAC,CLE,,,,,50%,WR/FLEX
+81398-56708,TE,Will,Will Dissly,Dissly,4.8,4,5100,SEA@NO,SEA,NO,,,,,50%,TE/FLEX
+81398-71246,WR,Marquez,Marquez Callaway,Callaway,8.4,2,5100,SEA@NO,NO,SEA,,,,,160%,WR/FLEX
+81398-12526,D,Buffalo,Buffalo Bills,Bills,8.7,4,5000,PIT@BUF,BUF,PIT,,,,,820%,DEF
+81398-86518,WR,Khalil,Khalil Shakir,Shakir,7.1,2,5000,PIT@BUF,BUF,PIT,,,,,140%,WR/FLEX
+81398-56265,TE,Mike,Mike Gesicki,Gesicki,4.1,4,5000,MIA@NYJ,MIA,NYJ,,,,,50%,TE/FLEX
+81398-52808,RB,Dontrell,Dontrell Hilliard,Hilliard,5.5,3,5000,TEN@WAS,TEN,WAS,,,,,50%,RB/FLEX
+81398-12539,D,Miami,Miami Dolphins,Dolphins,7.2,4,4900,MIA@NYJ,MIA,NYJ,,,,,70%,DEF
+81398-41872,TE,Evan,Evan Engram,Engram,5.8,4,4900,HOU@JAC,JAC,HOU,,,,,120%,TE/FLEX
+81398-57342,WR,Tre'Quan,Tre'Quan Smith,Smith,6.3,2,4900,SEA@NO,NO,SEA,,,,,50%,WR/FLEX
+81398-71705,TE,Noah,Noah Fant,Fant,4.2,4,4800,SEA@NO,SEA,NO,,,,,50%,TE/FLEX
+81398-12551,D,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,7.9,4,4800,ATL@TB,TB,ATL,,,,,150%,DEF
+81398-55042,TE,Dalton,Dalton Schultz,Schultz,7.1,3,4800,DAL@LAR,DAL,LAR,,,,,640%,TE/FLEX
+81398-12532,D,Detroit,Detroit Lions,Lions,5.2,4,4700,DET@NE,DET,NE,,,,,50%,DEF
+81398-72725,TE,Irv,Irv Smith Jr.,Smith Jr.,6.2,4,4700,CHI@MIN,MIN,CHI,,,,,420%,TE/FLEX
+81398-64808,TE,Juwan,Juwan Johnson,Johnson,6,4,4700,SEA@NO,NO,SEA,,,,,140%,TE/FLEX
+81398-12554,D,Jacksonville,Jacksonville Jaguars,Jaguars,8.1,4,4600,HOU@JAC,JAC,HOU,,,,,280%,DEF
+81398-91047,TE,Cole,Cole Kmet,Kmet,4.9,4,4600,CHI@MIN,CHI,MIN,,,,,90%,TE/FLEX
+81398-70601,TE,Harrison,Harrison Bryant,Bryant,4.3,3,4600,LAC@CLE,CLE,LAC,,,,,50%,TE/FLEX
+81398-93538,WR,Dyami,Dyami Brown,Brown,4.8,1,4600,TEN@WAS,WAS,TEN,,,,,50%,WR/FLEX
+81398-12545,D,Philadelphia,Philadelphia Eagles,Eagles,6.5,4,4500,PHI@ARI,PHI,ARI,,,,,50%,DEF
+81398-39286,TE,O.J.,O.J. Howard,Howard,5.6,4,4500,HOU@JAC,HOU,JAC,,,,,430%,TE/FLEX
+81398-40126,TE,Austin,Austin Hooper,Hooper,4.4,4,4500,TEN@WAS,TEN,WAS,,,,,50%,TE/FLEX
+81398-40845,TE,Hunter,Hunter Henry,Henry,5.7,4,4500,DET@NE,NE,DET,,,,,320%,TE/FLEX
+81398-12549,D,San Francisco,San Francisco 49ers,49ers,9.3,4,4400,SF@CAR,SF,CAR,,,,,1620%,DEF
+81398-72705,TE,John,John Bates,Bates,5.7,4,4400,TEN@WAS,WAS,TEN,,,,,240%,TE/FLEX
+81398-12540,D,Minnesota,Minnesota Vikings,Vikings,8.3,4,4300,CHI@MIN,MIN,CHI,,,,,960%,DEF
+81398-90123,TE,Quintin,Quintin Morris,Morris,4.5,3,4200,PIT@BUF,BUF,PIT,,,,,110%,TE/FLEX
+81398-12534,D,Tennessee,Tennessee Titans,Titans,7.1,4,4200,TEN@WAS,TEN,WAS,,,,,300%,DEF
+81398-12530,D,Dallas,Dallas Cowboys,Cowboys,6.7,4,4100,DAL@LAR,DAL,LAR,,,,,380%,DEF
+81398-86811,TE,Cade,Cade Otton,Otton,6.5,2,4100,ATL@TB,TB,ATL,,,,,710%,TE/FLEX
+81398-12529,D,Cleveland,Cleveland Browns,Browns,5,4,4000,LAC@CLE,CLE,LAC,,,,,50%,DEF
+81398-12544,D,New York,New York Jets,Jets,5.2,4,4000,MIA@NYJ,NYJ,MIA,,,,,50%,DEF
+81398-12538,D,Los Angeles,Los Angeles Rams,Rams,7.2,4,3900,DAL@LAR,LAR,DAL,,,,,1050%,DEF
+81398-12548,D,Los Angeles,Los Angeles Chargers,Chargers,5.5,4,3900,LAC@CLE,LAC,CLE,,,,,70%,DEF
+81398-12542,D,New Orleans,New Orleans Saints,Saints,6.8,4,3800,SEA@NO,NO,SEA,,,,,1290%,DEF
+81398-12556,D,Houston,Houston Texans,Texans,5.3,4,3700,HOU@JAC,HOU,JAC,,,,,50%,DEF
+81398-12541,D,New England,New England Patriots,Patriots,6,4,3600,DET@NE,NE,DET,,,,,180%,DEF
+81398-12553,D,Carolina,Carolina Panthers,Panthers,5.6,4,3600,SF@CAR,CAR,SF,,,,,90%,DEF
+81398-12546,D,Arizona,Arizona Cardinals,Cardinals,4.7,4,3400,PHI@ARI,ARI,PHI,,,,,130%,DEF
+81398-12527,D,Chicago,Chicago Bears,Bears,4.5,4,3300,CHI@MIN,CHI,MIN,,,,,210%,DEF
+81398-12552,D,Washington,Washington Commanders,Commanders,6.1,4,3200,TEN@WAS,WAS,TEN,,,,,1060%,DEF
+81398-12550,D,Seattle,Seattle Seahawks,Seahawks,5.9,4,3100,SEA@NO,SEA,NO,,,,,1130%,DEF

@@ -1,0 +1,78 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,,,Projected Ownership,Roster Position
+81116-55050,RB,Christian,Christian McCaffrey,McCaffrey,16.76,3,8800,ARI@CAR,CAR,ARI,Q,Thigh,,,8499%,RB/FLEX
+81116-45889,WR,Davante,Davante Adams,Adams,16.74,3,7900,DEN@LV,LV,DEN,,,,,8353%,WR/FLEX
+81116-63484,QB,Kyler,Kyler Murray,Murray,18.51,3,7800,ARI@CAR,ARI,CAR,,,,,4230%,QB
+81116-86687,WR,Marquise,Marquise Brown,Brown,11.43,3,7700,ARI@CAR,ARI,CAR,Q,Foot,,,5238%,WR/FLEX
+81116-6894,QB,Aaron,Aaron Rodgers,Rodgers,16.94,3,7400,NE@GB,GB,NE,,,,,129%,QB
+81116-40442,RB,Aaron,Aaron Jones,Jones,13.45,3,7300,NE@GB,GB,NE,,,,,824%,RB/FLEX
+81116-45859,QB,Derek,Derek Carr,Carr,17.92,3,7200,DEN@LV,LV,DEN,,,,,3316%,QB
+81116-22015,QB,Russell,Russell Wilson,Wilson,16.88,3,7100,DEN@LV,DEN,LV,,,,,1524%,QB
+81116-93541,RB,Javonte,Javonte Williams,Williams,12.89,3,6900,DEN@LV,DEN,LV,,,,,2980%,RB/FLEX
+81116-57403,WR,Courtland,Courtland Sutton,Sutton,12.36,3,6800,DEN@LV,DEN,LV,,,,,7808%,WR/FLEX
+81116-40687,RB,James,James Conner,Conner,12.98,3,6800,ARI@CAR,ARI,CAR,,,,,4664%,RB/FLEX
+81116-41535,QB,Baker,Baker Mayfield,Mayfield,16.27,3,6600,ARI@CAR,CAR,ARI,,,,,713%,QB
+81116-72731,RB,Josh,Josh Jacobs,Jacobs,13.59,3,6500,DEN@LV,LV,DEN,,,,,8010%,RB/FLEX
+81116-28900,RB,Melvin,Melvin Gordon III,Gordon III,9.38,3,6500,DEN@LV,DEN,LV,,,,,447%,RB/FLEX
+81116-93107,RB,AJ,AJ Dillon,Dillon,13.13,3,6500,NE@GB,GB,NE,,,,,965%,RB/FLEX
+81116-25011,TE,Darren,Darren Waller,Waller,9.87,3,6500,DEN@LV,LV,DEN,,,,,4284%,TE/FLEX
+81116-90561,WR,Jerry,Jerry Jeudy,Jeudy,11.01,3,6500,DEN@LV,DEN,LV,,,,,1811%,WR/FLEX
+81116-7872,QB,Brian,Brian Hoyer,Hoyer,12.03,5,6300,NE@GB,NE,GB,,,,,217%,QB
+81116-64576,RB,Damien,Damien Harris,Harris,9.49,3,6200,NE@GB,NE,GB,,,,,606%,RB/FLEX
+81116-63043,WR,DJ,DJ Moore,Moore,11.37,3,6100,ARI@CAR,CAR,ARI,,,,,3128%,WR/FLEX
+81116-56809,WR,Allen,Allen Lazard,Lazard,8.37,2,6000,NE@GB,GB,NE,,,,,131%,WR/FLEX
+81116-94370,WR,Romeo,Romeo Doubs,Doubs,8.38,3,5900,NE@GB,GB,NE,,,,,314%,WR/FLEX
+81116-111540,RB,Rhamondre,Rhamondre Stevenson,Stevenson,9.68,3,5900,NE@GB,NE,GB,,,,,1005%,RB/FLEX
+81116-25267,WR,Mack,Mack Hollins,Hollins,10,3,5800,DEN@LV,LV,DEN,,,,,2752%,WR/FLEX
+81116-26251,WR,Robbie,Robbie Anderson,Anderson,8.3,3,5700,ARI@CAR,CAR,ARI,,,,,786%,WR/FLEX
+81116-33260,WR,DeVante,DeVante Parker,Parker,7.65,3,5700,NE@GB,NE,GB,,,,,158%,WR/FLEX
+81116-85762,RB,Eno,Eno Benjamin,Benjamin,4.92,3,5600,ARI@CAR,ARI,CAR,,,,,71%,RB/FLEX
+81116-29683,WR,Nelson,Nelson Agholor,Agholor,6.17,3,5600,NE@GB,NE,GB,,,,,40%,WR/FLEX
+81116-29780,TE,Zach,Zach Ertz,Ertz,8.18,3,5500,ARI@CAR,ARI,CAR,,,,,5551%,TE/FLEX
+81116-52897,RB,Darrel,Darrel Williams,Williams,2.24,2,5500,ARI@CAR,ARI,CAR,,,,,44%,RB/FLEX
+81116-86192,WR,KJ,KJ Hamler,Hamler,2.97,1,5500,DEN@LV,DEN,LV,,,,,24%,WR/FLEX
+81116-58041,RB,Mike,Mike Boone,Boone,0.57,2,5400,DEN@LV,DEN,LV,,,,,33%,RB/FLEX
+81116-169776,WR,Christian,Christian Watson,Watson,4.33,2,5300,NE@GB,GB,NE,,,,,70%,WR/FLEX
+81116-69558,WR,Greg,Greg Dortch,Dortch,5.8,3,5300,ARI@CAR,ARI,CAR,,,,,564%,WR/FLEX
+81116-80289,WR,Kendrick,Kendrick Bourne,Bourne,3.09,3,5200,NE@GB,NE,GB,,,,,11%,WR/FLEX
+81116-14257,WR,Randall,Randall Cobb,Cobb,4.66,3,5200,NE@GB,GB,NE,,,,,11%,WR/FLEX
+81116-61042,WR,Kendall,Kendall Hinton,Hinton,0.47,2,5100,DEN@LV,DEN,LV,,,,,21%,WR/FLEX
+81116-91677,WR,Shi,Shi Smith,Smith,4.27,3,5000,ARI@CAR,CAR,ARI,,,,,123%,WR/FLEX
+81116-93408,WR,Rondale,Rondale Moore,Moore,7.95,15,5000,ARI@CAR,ARI,CAR,Q,Hamstring,,,2625%,WR/FLEX
+81116-12533,D,Green Bay,Green Bay Packers,Packers,8.01,3,5000,NE@GB,GB,NE,,,,,571%,DEF
+81116-95854,WR,Montrell,Montrell Washington,Washington,0.65,3,4900,DEN@LV,DEN,LV,,,,,0%,WR/FLEX
+81116-70859,TE,Albert,Albert Okwuegbunam,Okwuegbunam,4.21,3,4900,DEN@LV,DEN,LV,,,,,347%,TE/FLEX
+81116-80353,TE,Robert,Robert Tonyan,Tonyan,6.81,3,4900,NE@GB,GB,NE,,,,,391%,TE/FLEX
+81116-22898,RB,Brandon,Brandon Bolden,Bolden,3.69,2,4800,DEN@LV,LV,DEN,,,,,43%,RB/FLEX
+81116-55830,RB,D'Onta,D'Onta Foreman,Foreman,0.68,2,4700,ARI@CAR,CAR,ARI,,,,,33%,RB/FLEX
+81116-79998,WR,Keelan,Keelan Cole,Cole,4.21,1,4700,DEN@LV,LV,DEN,,,,,24%,WR/FLEX
+81116-60838,WR,Andre,Andre Baccellia,Baccellia,0.05,2,4700,ARI@CAR,ARI,CAR,,,,,100%,WR/FLEX
+81116-63419,WR,Andy,Andy Isabella,Isabella,2.01,2,4700,ARI@CAR,ARI,CAR,,,,,70%,WR/FLEX
+81116-87859,WR,Laviska,Laviska Shenault Jr.,Shenault Jr.,2.65,1,4600,ARI@CAR,CAR,ARI,Q,Hamstring,,,30%,WR/FLEX
+81116-56142,WR,Juwann,Juwann Winfree,Winfree,0.61,2,4600,NE@GB,GB,NE,,,,,7%,WR/FLEX
+81116-89970,WR,Amari,Amari Rodgers,Rodgers,0.36,3,4600,NE@GB,GB,NE,,,,,6%,WR/FLEX
+81116-71031,WR,Lil'Jordan,Lil'Jordan Humphrey,Humphrey,4.22,2,4600,NE@GB,NE,GB,,,,,10%,WR/FLEX
+81116-40845,TE,Hunter,Hunter Henry,Henry,4.02,3,4600,NE@GB,NE,GB,,,,,15%,TE/FLEX
+81116-87467,RB,Chuba,Chuba Hubbard,Hubbard,2.38,3,4600,ARI@CAR,CAR,ARI,,,,,33%,RB/FLEX
+81116-72627,RB,Patrick,Patrick Taylor,Taylor,0.09,4,4600,NE@GB,GB,NE,,,,,8%,RB/FLEX
+81116-91578,RB,Zamir,Zamir White,White,0.56,1,4600,DEN@LV,LV,DEN,,,,,33%,RB/FLEX
+81116-48116,TE,Jonnu,Jonnu Smith,Smith,4.05,3,4600,NE@GB,NE,GB,,,,,9%,TE/FLEX
+81116-160306,RB,Pierre,Pierre Strong Jr.,Strong Jr.,0.07,1,4500,NE@GB,NE,GB,,,,,8%,RB/FLEX
+81116-52409,RB,Jakob,Jakob Johnson,Johnson,0.1,1,4500,DEN@LV,LV,DEN,,,,,0%,RB/FLEX
+81116-45791,WR,Rashard,Rashard Higgins,Higgins,0.08,12,4500,ARI@CAR,CAR,ARI,,,,,22%,WR/FLEX
+81116-60705,WR,Tyron,Tyron Johnson,Johnson,0.39,8,4500,DEN@LV,LV,DEN,,,,,23%,WR/FLEX
+81116-72515,TE,Ian,Ian Thomas,Thomas,3.97,3,4500,ARI@CAR,CAR,ARI,,,,,53%,TE/FLEX
+81116-79980,TE,Eric,Eric Saubert,Saubert,2.34,3,4400,DEN@LV,DEN,LV,,,,,40%,TE/FLEX
+81116-91101,TE,Tommy,Tommy Tremble,Tremble,1.73,2,4400,ARI@CAR,CAR,ARI,,,,,37%,TE/FLEX
+81116-61172,TE,Tyler,Tyler Davis,Davis,1.08,3,4300,NE@GB,GB,NE,,,,,5%,TE/FLEX
+81116-65477,TE,Giovanni,Giovanni Ricci,Ricci,1.91,2,4300,ARI@CAR,CAR,ARI,,,,,38%,TE/FLEX
+81116-61112,TE,Josiah,Josiah Deguara,Deguara,0.28,1,4200,NE@GB,GB,NE,,,,,5%,TE/FLEX
+81116-6672,TE,Marcedes,Marcedes Lewis,Lewis,0.01,14,4100,NE@GB,GB,NE,,,,,5%,TE/FLEX
+81116-29277,TE,Stephen,Stephen Anderson,Anderson,0.43,1,4100,ARI@CAR,ARI,CAR,,,,,37%,TE/FLEX
+81116-104421,TE,Jesper,Jesper Horsted,Horsted,2.44,3,4100,DEN@LV,LV,DEN,,,,,37%,TE/FLEX
+81116-32957,TE,Eric,Eric Tomlinson,Tomlinson,1.17,1,4000,DEN@LV,DEN,LV,,,,,37%,TE/FLEX
+81116-12531,D,Denver,Denver Broncos,Broncos,5.85,3,4000,DEN@LV,DEN,LV,,,,,1292%,DEF
+81116-12553,D,Carolina,Carolina Panthers,Panthers,6.22,3,4000,ARI@CAR,CAR,ARI,,,,,587%,DEF
+81116-70043,TE,Cole,Cole Fotheringham,Fotheringham,0.13,0,4000,DEN@LV,LV,DEN,,,,,0%,TE/FLEX
+81116-12546,D,Arizona,Arizona Cardinals,Cardinals,6.92,3,3200,ARI@CAR,ARI,CAR,,,,,4609%,DEF
+81116-12541,D,New England,New England Patriots,Patriots,4.5,3,3100,NE@GB,NE,GB,,,,,209%,DEF
+81116-12537,D,Las Vegas,Las Vegas Raiders,Raiders,6.26,3,3000,DEN@LV,LV,DEN,,,,,3513%,DEF
